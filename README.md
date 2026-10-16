@@ -5,6 +5,6 @@ trello link:
 https://trello.com/b/c3JjLzju/retail-discount-coupon-redemption-system
 
 ### 👥 Team Members
-1_ Shahd adel wahby | Section 1 |
-2_Lobna Abd El fattah Mohammed |Section 1 |
-3_Zeinab Mohamed Gouda| Section 1 |
+1_ Shahd adel wahby _ Section 1(Sunday)
+2_Lobna Abd El fattah Mohammed _ Section 1(Sunday)
+3_Zeinab Mohamed Gouda _ Section 1(Sunday)
